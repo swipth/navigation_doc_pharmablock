@@ -84,3 +84,6 @@
 ​		中国站点：[演示地址](https://www.pharmablock.com/cn/)
 
 ​		美国站点：[演示地址](https://www.pharmablock.com/us/)
+
+
+docker build -f Dockerfile -t docs01 .
