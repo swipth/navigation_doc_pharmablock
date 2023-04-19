@@ -1,0 +1,14 @@
+{
+  "name": "navigation_doc_pharmablock",
+  "version": "1.0.0",
+  "description": "药石科技系统导航入口",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "docsify serve docs"
+  },
+  "author": "swipth",
+  "license": "ISC"
+}
