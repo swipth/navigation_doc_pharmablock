@@ -50,8 +50,7 @@
 ![](.README_images/c99b2dda.png)
 
 正式环境：
-
-![](.README_images/公共平台小程序.png)
+![图片](.README_images/公共平台小程序.png)
 
 ### SRM系统
 
