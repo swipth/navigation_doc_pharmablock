@@ -10,8 +10,5 @@
     "serve": "docsify serve docs"
   },
   "author": "swipth",
-  "license": "ISC",
-  "dependencies": {
-    "docsify-cli": "^4.4.4"
-  }
+  "license": "ISC"
 }

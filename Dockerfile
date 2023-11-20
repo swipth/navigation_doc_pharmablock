@@ -1,8 +1,8 @@
-FROM node:latest
+FROM node:10
 LABEL description="A navigation Dockerfile for build Docsify."
 RUN mkdir -p /www
 COPY ./ /www
 WORKDIR /www
-RUN npm install -g docsify-cli@latest
+RUN npm install docsify-cli@latest -g
 EXPOSE 3000/tcp
 ENTRYPOINT docsify serve docs
