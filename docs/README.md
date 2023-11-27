@@ -4,7 +4,7 @@
 
 PC预发布环境：[演示地址](http://172.16.18.152:8684)
 
-PC正式环境  [线上地址](https://product.pharmablock.com)
+PC正式环境  [演示地址](https://product.pharmablock.com)
 
 移动端
 
@@ -18,7 +18,7 @@ PC正式环境  [线上地址](https://product.pharmablock.com)
 
 预发布环境：[演示地址](http://192.168.1.152:443)
 
-正式环境：[访问地址](https://purchasing.pharmablock.com)
+正式环境：[演示地址](https://purchasing.pharmablock.com)
 
 ### 官网（门户）【PC、移动端】
 
@@ -44,7 +44,7 @@ PC
 
 预发布环境：[演示地址](http://192.168.1.152/index/workbench)
 
-正式环境：[访问地址](https://bp.pharmablock.com)
+正式环境：[演示地址](https://bp.pharmablock.com)
 
 访客移动端(二维码)   （非微信端访问入口）:
 
@@ -70,7 +70,7 @@ PC
 
 预发布环境：[演示地址](http://192.168.1.152:8083)
 
-正式环境：[线上网址](https://srm.pharmablock.com)
+正式环境：[演示地址](https://srm.pharmablock.com)
 
 使用手册：[流程手册](https://srm.pharmablock.com/docs/)
 
@@ -83,9 +83,9 @@ PC
 
 预发布环境（旧版）：[演示地址](http://192.168.1.152:8092)
 
-正式环境：[访问地址](https://supplier.pharmablock.com)
+正式环境：[演示地址](https://supplier.pharmablock.com)
 
-### SSO平台（旧版）【PC、移动端】：
+### SSO平台（旧版）【PC、移动端】
 
 PC
 
