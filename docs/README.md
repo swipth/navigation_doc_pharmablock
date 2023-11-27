@@ -10,7 +10,7 @@ PC正式环境  [线上地址](https://product.pharmablock.com)
 
 预发布环境、正式环境：
 
-![](.README_images/4b3f83b8.png)
+![](images/4b3f83b8.png)
 
 ### 研发采购平台
 
@@ -22,9 +22,21 @@ PC正式环境  [线上地址](https://product.pharmablock.com)
 
 ### 官网（门户）【PC、移动端】
 
+PC
+
 预发布环境：[演示地址](http://192.168.1.152:8060)
 
 正式环境：[演示地址](https://www.pharmablock.com)
+
+移动端
+
+预发布环境：
+
+<img width="120" src="images/官网预发布环境.png">
+
+正式环境：
+
+<img width="120" src="images/官网正式环境.png">
 
 ### 药石管理平台
 
@@ -38,7 +50,7 @@ PC正式环境  [线上地址](https://product.pharmablock.com)
 
 预发布环境
 
-<img width="120" src=".README_images/非微信客户端访客入口.png">
+<img width="120" src="images/非微信客户端访客入口.png">
 
 访客移动端正式环境：1、 药石科技公众号=》访客登记入口    2、晖石人公众号=》访客登记
 
@@ -46,11 +58,11 @@ PC正式环境  [线上地址](https://product.pharmablock.com)
 
 预发布环境（需要申请体验权限）：
 
-![](.README_images/c99b2dda.png)
+![](images/c99b2dda.png)
 
 正式环境：
 
-<img width="120" src=".README_images/公共平台小程序.png">
+<img width="120" src="images/公共平台小程序.png">
 
 ### SRM系统
 
@@ -75,9 +87,18 @@ PC正式环境  [线上地址](https://product.pharmablock.com)
 
 ### SSO平台（旧版）【PC、移动端】：
 
+PC
+
 预发布环境：[SSO](http://172.16.18.160:7000)
 
 正式环境：[SSO](https://ac.pharmablock.com)
 
+移动端
 
+预发布环境：
 
+<img width="120" src="images/SSO预发布环境.png">
+
+正式环境：
+
+<img width="120" src="images/SSO正式环境.png">
