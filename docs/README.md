@@ -22,6 +22,8 @@ PC正式环境  [演示地址](https://product.pharmablock.com)
 
 正式环境：[演示地址](https://purchasing.pharmablock.com)
 
+使用手册：[流程手册](https://purchasing.pharmablock.com/docs/)
+
 ### 官网（门户）【PC、移动端】
 
 PC
