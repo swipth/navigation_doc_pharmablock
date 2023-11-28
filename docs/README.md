@@ -1,4 +1,6 @@
-# 药石科技 软件开发前端系统平台
+# 药石科技 前端系统平台
+
+## 软件开发自研系统
 
 ### 产品网站 【PC、移动端】
 
@@ -10,7 +12,7 @@ PC正式环境  [演示地址](https://product.pharmablock.com)
 
 预发布环境、正式环境：
 
-![](images/4b3f83b8.png)
+<img width="120" src="images/产品站移动端正式环境.png">
 
 ### 研发采购平台
 
@@ -58,7 +60,7 @@ PC
 
 预发布环境（需要申请体验权限）：
 
-![](images/c99b2dda.png)
+<img width="120" src="images/公共平台小程序体验版.jpg">
 
 正式环境：
 
