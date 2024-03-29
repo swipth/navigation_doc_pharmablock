@@ -26,11 +26,21 @@ PC正式环境  [演示地址](https://product.pharmablock.com)
 
 ### 官网（门户）【PC、移动端】
 
-PC
+PC 门户
 
 预发布环境：[演示地址](http://192.168.1.152:8060)
 
 正式环境：[演示地址](https://www.pharmablock.com)
+
+PC 管理端
+
+预发布环境：[演示地址](http://192.168.1.152/ow/)
+
+> 平台使用需要开通演示环境权限 邮件联系: shi_wangping@pharmablock.com
+
+正式环境：[演示地址](https://bp.pharmablock.com/ow/)
+
+> 平台使用需要开通线上环境权限 邮件联系: wang_chunming@pharmablock.com
 
 移动端
 
@@ -48,7 +58,11 @@ PC
 
 预发布环境：[演示地址](http://192.168.1.152/index/workbench)
 
+> 平台使用需要开通演示环境权限 邮件联系: shi_wanping@pharmablock.com
+
 正式环境：[演示地址](https://bp.pharmablock.com)
+
+> 平台使用需要开通线上环境权限 邮件联系: wang_chunming@pharmablock.com
 
 #### 访客移动端（药石科技公众号）
 
@@ -94,7 +108,12 @@ PC
 
 预发布环境：[演示地址](http://192.168.1.152:8083)
 
+> 平台使用需要开通演示环境权限 邮件联系: chen_xiaofei@pharmablock.com
+
 正式环境：[演示地址](https://srm.pharmablock.com)
+
+> 平台使用需要开通线上环境权限 邮件联系: chen_xiaofei@pharmablock.com
+
 
 使用手册：[流程手册](https://srm.pharmablock.com/docs/)
 
